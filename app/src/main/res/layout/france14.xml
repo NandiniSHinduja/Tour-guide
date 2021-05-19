@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/bordeaux_wine_regions"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Bordeaux is a must-see for wine lovers, producing some of the world’s greatest red wines. The Bordeaux area is divided into regions and sub-regions. The Left Bank is devoted to growing cabernet sauvignon grapes while merlot grapes are grown on the Right Bank. White wines and dessert wines also are made from grapes grown here."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

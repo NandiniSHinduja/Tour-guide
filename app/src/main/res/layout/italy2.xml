@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/grand_canal"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Referred to as “The City of Water”, Venice is the crown jewel of water cities. Though, Venice has decayed since its heyday and has more tourists than residents, with its romantic charm it remains one of the top tourist attractions in Italy. The central waterway in the city is the Grand Canal, and it snakes its way through the city between the lagoon and the Saint Mark Basin. While strolling through Venice offers plenty of opportunities to see the Grand Canal, the best way to experience it is on the water. Locals get around via the water buses called vaporetti, but many travelers prefer the private water taxis or even the romantic gondola."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

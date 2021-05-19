@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/chamonix"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Chamonix Valley is one of the oldest ski resorts in France. The first Winter Olympics was held here in 1924. It is located near Mont Blanc in the French Alps. In winter world-class skiers and boarders push themselves to extremes on Europe’s most challenging slopes while in the summer months Chamonix is a mecca for alpine mountaineers and mountain bikers. Riding a cable car through the mountains is popular in the summer as well."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

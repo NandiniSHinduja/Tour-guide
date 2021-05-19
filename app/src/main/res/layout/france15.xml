@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/annecy"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Annecy lies in the Rhone Alps at the northern end of Lake Annecy. This picturesque capital of Haute-Savoie was once part of Switzerland and Sardinia, but joined France in 1860. The medieval town is divided by small canals and streams running out of Lac Annecy, which is clean, fresh and has a wonderful azure color. A top attraction is the Palais de l’Isle that sits in the middle of a canal."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

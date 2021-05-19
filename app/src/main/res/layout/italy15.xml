@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/portofino"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="With its picture-perfect harbor, verdant scenery and haphazard rows of hilltop and waterfront homes, Portofino is one of the prettiest towns on the Italian Riviera. Located just a short drive south of Genoa, the little fishing village has been a popular day-trip destination for centuries. Portofino is home to landmarks like the 16th century fort called Castello Brown and the 11th century church called St. Martin, but the real attraction in Portofino is the relaxed way of life. Visitors come to stroll along the Ligurian coastline, shop for souvenir glass jewelry and dine on Italian cuisine paired with the local Pinot Grigios."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

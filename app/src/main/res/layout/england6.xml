@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/the_cotswolds"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The Cotswolds refers to a range of gentle hills in south central England, the main range reaching 330 meters (1083 feet) in altitude at its highest point. The region is known for the stone-built villages, historical towns, and stately homes and gardens. The Cotswolds are a popular attraction in England, within easy striking distance of London and several other English urban centers."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

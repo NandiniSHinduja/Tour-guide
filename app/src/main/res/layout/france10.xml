@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/chartres_cathedral"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The Chartres Cathedral is located in a small city near Paris that seems too small to fit the Cathedral. The vast nave, the porches adorned with fine sculptures and the magnificent 12th- and 13th-century stained-glass windows, all in remarkable condition, make it one of the finest examples of the French High Gothic style."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

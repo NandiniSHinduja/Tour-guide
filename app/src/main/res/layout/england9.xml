@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/warwick_castle"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Originally a wooden structure built by William the Conqueror in 1068, Warwick Castle was rebuilt in stone in the 12th century. During the Hundred Years War, the facade opposite the town was refortified, resulting in one of the most recognizable examples of 14th century military architecture. In 2001, Warwick Castle was named one of Britain’s “Top 10 historic houses and monuments” and is one of the top attractions in England."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

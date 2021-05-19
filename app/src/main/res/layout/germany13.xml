@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/zugspitze"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The highest mountain is Germany is the Zugspitze, located above the town of Garmisch. Although the peak is a world-renowned spot for serious skiers, a trip to the top is worthwhile whatever the season. From a lake at the base of the mountain, hop aboard the Zahnradbahn, a cogwheel train that heads partway up the mountain. Then, it’s onward on the cable car called the Eibsee-Seilbahn. At the summit, it is possible to view the landscape of four countries at once."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

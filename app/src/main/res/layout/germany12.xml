@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/nuremberg_christmas_market"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="German Christmas markets are known the world over, and arguably the best of all is found in the Bavarian city of Nuremberg. The annual Christkindlesmarkt is held throughout the Advent season in Nuremberg’s old town, and it has been in place since the 17th century. Visitors should visit after dark, when lights illuminate the vendors selling traditional German handicrafts, Christmas tree ornaments, mulled wine and lebkuchen, a German gingerbread cookie beloved during the holidays"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

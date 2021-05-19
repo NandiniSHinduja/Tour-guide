@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/st_tropez"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="St Tropez is a resort community on the French Riviera. Once a military stronghold, fishing village and artist colony, it is now a playground for the jetset, fashion models, and millionaires. The beaches are popular with scantily clad sunbathers, while others come for windsurfing, sailing, motorized water sports and yachting. Outside peak summer there are less celebrities to spot but you’ll also instantly appreciate what lured artists, writers and film makers to this picturesque village."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

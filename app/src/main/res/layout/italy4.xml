@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/piazza_del_campo"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="One of Europe’s greatest medieval squares, the Piazza del Campo is the principal public space of the historic center of Siena, Tuscany. It is renowned worldwide for its beauty and architectural integrity. The Palazzo Pubblico and its famous tower, as well as various palazzi signorili belonging to the wealthiest of Siena families surround the shell-shaped piazza. The twice-per-year horse-race, Palio di Siena, involves circling the Piazza del Campo, on which a thick layer of dirt has been laid, three times and usually lasts no more than 90 seconds."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

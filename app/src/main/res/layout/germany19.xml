@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/saxon_switzerland_national_park"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Not far from the city of Dresden is the Saxon Switzerland National Park, a sprawling park near the scenic Elbe Sandstone Mountains. The park crosses over into the Czech Republic, but the Czech side is known as the Bohemian Switzerland National Park. Saxon Switzerland National Park is home to the Elbe River as well as stunning rock formations, deep valleys and miles of hiking trails. Mountain biking and rock climbing are also popular pastimes within the national park."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

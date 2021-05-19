@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/big_ben"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The 150 year old Big Ben Clock Tower is one of London’s top attractions. The name Big Ben actually refers not to the clock tower itself, but to the 13 ton bell housed within the tower and takes its name from the man who first ordered the bell, Sir Benjamin Hall. It is the 3th largest free-standing clock tower in the world. The clock has become a symbol of the England and London and has appeared in many films. In the movie Mars Attacks! for example the Big Ben is destroyed by a UFO attack."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

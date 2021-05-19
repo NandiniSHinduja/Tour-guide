@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/capri"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The island of Capri is just three miles from Naples, but it is a unique destination with its own culture and atmosphere. After arriving by boat, visitors often flock to the Blue Grotto, a spectacular cave that has been appreciated since Roman times. In addition to beautiful beaches and wonderful hikes, Capri boasts some historic architecture. Not to be missed is the Baroque Church of San Michele Arcangelo and the Villa Jovis, the former residence of the Emperor Tiberius."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

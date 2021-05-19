@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/durham_cathedral"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Durham Cathedral, in the city of Durham in northeast England is the greatest Norman building in England and perhaps even in Europe. It is cherished not only for its architecture but also for its incomparable setting. The foundation stone of Durham Cathedral was laid on August 12, 1093. Since that time, there have been major additions and reconstructions of some parts of the building, but the greater part of the structure remains true to the Norman design. In a nationwide BBC poll held in 2001 Durham Cathedral was voted England’s best-loved building."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

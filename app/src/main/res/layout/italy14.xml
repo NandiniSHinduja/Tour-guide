@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/st_marks_basilica"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="St. Mark’s Basilica, known to locals as the Basilica di San Marco, is the crowning jewel of the Piazza San Marco in Venice. The enormous church was completed in the 11th century, and it boasts more than 500 columns, several stunning domes and countless Byzantine mosaics that use gold extensively. Also of note are the bronze Horses of Saint Mark, which date back to antiquity and watch over the basilica’s entrances. Be sure not to miss the treasury or the Museo Marciano, both of which contain a staggering collection of early gifts like jewels, sculpture and tapestries."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

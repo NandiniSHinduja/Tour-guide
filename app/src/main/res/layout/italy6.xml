@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/positano"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Positano is a small town located on the Amalfi Coast, a stretch of coastline renowned for its rugged terrain, scenic beauty, picturesque towns and diversity. The city seems to be scattered from top to bottom down a hillside leading to the coast. Though Positano grew and prospered in medieval times, by the mid 19th more than half of the population was gone. In the 20th century it went from being a poor fishing village to a very popular tourist attraction with the help of author John Steinbeck who wrote about its beauty."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

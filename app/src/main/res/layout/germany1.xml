@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/neuschwanstein"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The ultimate fairytale castle, Neuschwanstein is situated on a rugged hill near Füssen in southwest Bavaria. It was the inspiration for the Sleeping Beauty castles in the Disneyland parks. The castle was commissioned by King Ludwig II of Bavaria who was declared insane when the castle was almost completed in 1886 and found dead a few days later. Neuschwanstein is the most photographed building in the country and one of the most popular tourist attractions in Germany."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

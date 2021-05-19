@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/black_forest"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The Schwarzwald, or Black Forest, can be found in the southwestern corner of the country. The name comes from the thick tree canopy, and the forest is a mecca for those who love beautiful scenery and outdoor recreation. Hiking, swimming in chilly Alpine lakes and mountain biking are popular pastimes, but the Black Forest also has some urban alternatives. Within the forest are several towns and cities. Baden-Baden is a world-famous spa retreat perfect for relaxation, and Freiburg is a bustling university town with amazing cuisine and nightlife."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

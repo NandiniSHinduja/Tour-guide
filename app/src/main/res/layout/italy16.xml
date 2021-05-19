@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/pizza_napoletana"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="While you’ll find excellent pizza all over Italy, there’s one place that’s absolutely the best: Naples. This is where pizza was born and where it’s still king. Unlike pizza in places like the United States, Neapolitan pizza is generally very thin-crusted and saucy and is expected to be eaten as a whole pie while sitting down. Although every pizzeria in Naples makes a decent pizza, some places display the label “Vera Pizza Napoletana” which indicates that the pizzeria follows the standards of The Naples Pizza Association."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

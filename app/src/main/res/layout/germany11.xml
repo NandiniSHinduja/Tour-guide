@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/rothenburg_ob_der_tauber"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="A true storybook village brought to life is Rothenburg ob der Tauber. Straight from the pages of a fairy tale, this Franconian town has a remarkably well preserved medieval center. Overlooking the Tauber River, many of the churches and residences date back to the 15th and 16th centuries. A highlight of the town is the Market Square, which is flanked on one side by the 13th century Town Hall Tower."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

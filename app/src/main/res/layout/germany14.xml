@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/hohenzollern_castle"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The neo-Gothic Hohenzollern Castle is perched on a bluff overlooking two small towns at the foothills of the Swabian Alps. Constructed in the 19th century, the castle is the third to stand in the same spot over the last one thousand years. Hohenzollern Castle is situated with sweeping views over the landscape, and it boasts opulent rooms filled with stained glass windows and decorative frescoes. Family jewels and artifacts can be found in the Schatzkammer, or treasury."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

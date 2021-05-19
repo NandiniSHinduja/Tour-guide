@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/berchtesgaden"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="In Southern Bavaria, right up to the Austrian border, is the small mountain town of Berchtesgaden. Despite its size, Berchtesgaden played a significant role in the shaping of German history. Known throughout history for its salt mines, Berchtesgaden is now better known for being the summer retreat of Adolf Hitler. Most visitors come to see the Kehlsteinhaus, or Eagle’s Nest, at the top of Berchtesgaden. Even after the end of World War II, the structure was saved and now operates as a museum."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

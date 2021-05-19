@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/schwerin_castle"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Schwerin Castle in the city of Schwerin is one of the most significant attractions in the state of Mecklenburg-Vorpommern. The castle is situated on an island in the middle of the Schweriner See, adding to its unusual appeal. Built in the 14th century, Schwerin Castle is now a seat of government, and it is open for guided and self-guided tours. The castle is said to be haunted by the ghost of a creature called Petermännchen, and these legends bring in a number of curious visitors each year."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

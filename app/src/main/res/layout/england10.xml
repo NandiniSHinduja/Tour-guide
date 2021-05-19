@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/hadrians_wall"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Hadrian’s Wall was built by the Romans to protect their colony Britannia from the tribes in Scotland. It stretches for 117 kilometers (73 miles) across the north of England from the Irish Sea to the North Sea. Construction started in 122 AD following a visit by Roman Emperor Hadrian, and was largely completed within six years. Today only stretches of this famous wall are still visible. There is a national path that follows the whole length of the wall from Wallsend to Bowness-on-Solway."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

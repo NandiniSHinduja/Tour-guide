@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tourguide">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TourGuide">
+        <activity android:name=".France" />
+        <activity android:name=".France1" />
+        <activity android:name=".France2" />
+        <activity android:name=".France3" />
+        <activity android:name=".France4" />
+        <activity android:name=".France5" />
+        <activity android:name=".France6" />
+        <activity android:name=".France7" />
+        <activity android:name=".France8" />
+        <activity android:name=".France9" />
+        <activity android:name=".France10" />
+        <activity android:name=".France11" />
+        <activity android:name=".France12" />
+        <activity android:name=".France13" />
+        <activity android:name=".France14" />
+        <activity android:name=".France15" />
+        <activity android:name=".France16" />
+        <activity android:name=".France17" />
+        <activity android:name=".France18" />
+        <activity android:name=".France19" />
+        <activity android:name=".Italy" />
+        <activity android:name=".England" />
+        <activity android:name=".England1" />
+        <activity android:name=".England2" />
+        <activity android:name=".England3" />
+        <activity android:name=".England4" />
+        <activity android:name=".England5" />
+        <activity android:name=".England6" />
+        <activity android:name=".England7" />
+        <activity android:name=".England8" />
+        <activity android:name=".England9" />
+        <activity android:name=".England10" />
+        <activity android:name=".England11" />
+        <activity android:name=".England12" />
+        <activity android:name=".England13" />
+        <activity android:name=".England14" />
+        <activity android:name=".England15" />
+        <activity android:name=".England16" />
+        <activity android:name=".England17" />
+        <activity android:name=".England18" />
+        <activity android:name=".England19" />
+        <activity android:name=".Italy1" />
+        <activity android:name=".Italy2" />
+        <activity android:name=".Italy3" />
+        <activity android:name=".Italy4" />
+        <activity android:name=".Italy5" />
+        <activity android:name=".Italy6" />
+        <activity android:name=".Italy7" />
+        <activity android:name=".Italy8" />
+        <activity android:name=".Italy9" />
+        <activity android:name=".Italy10" />
+        <activity android:name=".Italy11" />
+        <activity android:name=".Italy12" />
+        <activity android:name=".Italy13" />
+        <activity android:name=".Italy14" />
+        <activity android:name=".Italy15" />
+        <activity android:name=".Italy16" />
+        <activity android:name=".Italy17" />
+        <activity android:name=".Italy18" />
+        <activity android:name=".Italy19" />
+        <activity android:name=".Germany" />
+        <activity android:name=".Germany1" />
+        <activity android:name=".Germany2" />
+        <activity android:name=".Germany3" />
+        <activity android:name=".Germany4" />
+        <activity android:name=".Germany5" />
+        <activity android:name=".Germany6" />
+        <activity android:name=".Germany7" />
+        <activity android:name=".Germany8" />
+        <activity android:name=".Germany9" />
+        <activity android:name=".Germany10" />
+        <activity android:name=".Germany11" />
+        <activity android:name=".Germany12" />
+        <activity android:name=".Germany13" />
+        <activity android:name=".Germany14" />
+        <activity android:name=".Germany15" />
+        <activity android:name=".Germany16" />
+        <activity android:name=".Germany17" />
+        <activity android:name=".Germany18" />
+        <activity android:name=".Germany19" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

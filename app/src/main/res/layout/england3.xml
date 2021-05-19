@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/windsor_castle"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Located about an hour west of London, Windsor Castle is often called the largest and oldest inhabited castle in the world. It is one of the official residences of Queen Elizabeth II who spends many weekends of the year at the castle, using it for both state and private entertaining. The earliest surviving buildings at Windsor date from the reign of Henry II who came to the throne in 1154. Much of the castle, including the magnificent State Apartments and St Georges Chapel can be visited."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

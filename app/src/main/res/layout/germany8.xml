@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/frauenkirche"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="Located in Dresden, the Frauenkirche (Church of Our Lady) is a Lutheran church that was completely destroyed during WWII. The church reconstructed using original plans from the 1720s and reopened in 2005. The city of Coventry, which was raided by the Luftwaffe donated the golden cross for the dome of the church. Since its reopening, the Frauenkirche has been a hugely popular tourist attraction in Dresden. In 2009 the church was visited by President Barack Obama."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

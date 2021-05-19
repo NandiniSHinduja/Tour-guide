@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/duomo_of_orvieto"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="A shining example of Italian Gothic architecture is the Duomo of Orvieto. The 14th century Roman Catholic cathedral was commissioned by Pope Urban IV, but it took nearly three centuries to complete the structure. Today, visitors remark upon the staggering seven stories, the detailed facade and the horizontal stripes of marble used in the construction. Much of the artwork in the Duomo of Orvieto, which depicts apocalyptic stories and tales from Revelation, were done by Luca Signorelli."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

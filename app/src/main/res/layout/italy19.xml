@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/sassi_di_matera"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="In the town of Matera, there are a collection of ancient cave dwellings known collectively as the Sassi di Matera. These dwellings are thought of as the very first human settlement in all of Italy, and they may be as many as 9,000 years old. The dwellings are carved right out of the rock, and many of these caves still house homes, businesses and cafes today. It is an incredible experience to tour ancient caves from early humans and then sip local wines from a similar cave just a short walk away."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>

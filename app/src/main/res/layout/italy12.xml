@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/st_marks_basilica"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/baby"
+        android:backgroundTint="@color/pink"
+        android:text="The star attraction of the Vatican in Rome is St. Peter’s Basilica. The magnificent basilica is topped with a dramatic dome, on whose ceiling Michelangelo himself painted. Built in the early 16th century, St. Peter’s Basilica is now a huge church with an interior that could fit a space shuttle together with its booster rockets. While the facade and the proximity to the Pope are reasons to visit St. Peter’s Basilica, it is the art that is so memorable. Expect paintings and sculptures by the likes of Bernini and Michelangelo."
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"/>
+
+</LinearLayout>
