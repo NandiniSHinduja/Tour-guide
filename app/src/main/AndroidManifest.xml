@@ -41,15 +41,6 @@
         <activity android:name=".England8" />
         <activity android:name=".England9" />
         <activity android:name=".England10" />
-        <activity android:name=".England11" />
-        <activity android:name=".England12" />
-        <activity android:name=".England13" />
-        <activity android:name=".England14" />
-        <activity android:name=".England15" />
-        <activity android:name=".England16" />
-        <activity android:name=".England17" />
-        <activity android:name=".England18" />
-        <activity android:name=".England19" />
         <activity android:name=".Italy1" />
         <activity android:name=".Italy2" />
         <activity android:name=".Italy3" />
